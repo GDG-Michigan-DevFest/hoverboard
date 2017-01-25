@@ -160,8 +160,8 @@
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 25,
+        "currency": "$",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
         "info": "student-ticket-info",
@@ -169,16 +169,16 @@
       },
       {
         "name": "early-ticket",
-        "price": 750,
+        "price": 65,
         "currency": "₴",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
+        "soldOut": false
       },
       {
         "name": "lazy-ticket",
-        "price": 1000,
+        "price": 75,
         "currency": "₴",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",

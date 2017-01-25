@@ -2,7 +2,7 @@
   "database": {
     "rules": "database.rules.json"
   },
-  "hosting": {
+   "hosting": {
     "public": "./build/bundled",
     "cleanUrls": true,
     "rewrites": [
@@ -18,5 +18,5 @@
       "firebase.json",
       "README.md"
     ]
-  }
+}
 }
