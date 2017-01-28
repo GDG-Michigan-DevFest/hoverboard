@@ -14,9 +14,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "Michigan GDG DevFest 2016",
           "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "text": "Find out what DevFests are about."
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -55,10 +55,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -143,8 +139,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "michigandevfest@gmail.com",
+        "url": "mailto:michigandevfest@gmail.com"
       }
     ]
   },
@@ -163,7 +159,7 @@
       {
         "name": "early-ticket",
         "price": 65,
-        "currency": "₴",
+        "currency": "$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
@@ -172,7 +168,7 @@
       {
         "name": "lazy-ticket",
         "price": 75,
-        "currency": "₴",
+        "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
         "soldOut": false
@@ -183,19 +179,19 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 100,
       "caption": "attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "days"
     },
     {
-      "counter": 30,
+      "counter": 15,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "tracks"
     }
   ],
