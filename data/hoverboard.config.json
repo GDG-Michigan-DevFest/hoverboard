@@ -3,7 +3,7 @@
     "name": "hoverboard-master",
     "domain": "hoverboard-master.firebaseapp.com",
     "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "api": "AIzaSyAzGbjlu3XCwXpM4xB5q5OQd4kxPm1vYgY",
     "userSessionsPath": "/userSessions"
   },
   "pages": {
@@ -13,11 +13,6 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "Michigan GDG DevFest 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "Find out what DevFests are about."
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -57,33 +52,21 @@
       "permalink": "/"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
       "route": "team",
       "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://michigandevfest.com/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "mailto:michigandevfest@gmail.com",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
       "name": "English",
       "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
     }
   ],
   "footerBlocks": [
@@ -95,42 +78,8 @@
           "url": "/team/"
         },
         {
-          "text": "cod",
-          "url": "/cod/"
-        },
-        {
           "text": "google-developers",
           "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "for-partners",
-      "links": [
-        {
-          "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
           "newTab": true
         }
       ]
@@ -145,7 +94,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "https://goo.gl/forms/t4zcgxotfDqurQCr1",
     "elements": [
       {
         "name": "student-ticket",
@@ -183,40 +132,16 @@
       "caption": "attendees"
     },
     {
-      "counter": 1,
-      "caption": "days"
-    },
-    {
-      "counter": 15,
-      "caption": "sessions"
-    },
-    {
       "counter": 2,
       "caption": "tracks"
+    },
+    {
+      "counter": 1,
+      "caption": "days"
     }
   ],
   "hashtag": "dfua",
   "social": [
-    {
-      "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
-    },
-    {
-      "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
-    },
-    {
-      "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
-    }
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
@@ -231,15 +156,15 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 42.335932,
+      "longitude": -83.049805,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 42.335932,
+      "longitude": -83.049805
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
