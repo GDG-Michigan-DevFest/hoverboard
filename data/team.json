@@ -3,118 +3,8 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Website and sponsors"
-      },
-      {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      },
-      {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-        "socials": [
-          {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Sponsors"
-      },
-      {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+        "name": "Todd DeLand",
+        "photoUrl": "/images/people/todd_deland.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -127,11 +17,11 @@
             "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
+        "title": "Organizer"
       },
       {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
+        "name": "Justin Kozak",
+        "photoUrl": "/images/people/justin_kozak.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -149,68 +39,95 @@
             "name": "Twitter"
           }
         ],
-        "title": "Speakers"
+        "title": "Organizer"
       },
       {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
+        "name": "Dave Koziol",
+        "photoUrl": "/images/people/dave_koziol.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      }
-    ]
-  },
-  {
-    "title": "Program Committee",
-    "members": [
-      {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
+            "link": "https://plus.google.com/+DaveKoziol",
             "name": "Google+"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
+            "link": "https://twitter.com/davekoziol",
             "name": "Twitter"
+          }
+        ],
+        "title": "Organizer"
+      },
+      {
+        "name": "Kris Peach",
+        "photoUrl": "/images/people/kris_peach.jpg",
+        "title": "Organizer"
+      },
+      {
+        "name": "Jim Vitek",
+        "photoUrl": "/images/people/jim_vitek.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+JimVitek",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/vitek",
+            "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/jimvitek",
+            "name": "GitHub"
+          }
+        ],
+        "title": "Organizer"
+      },
+      {
+        "name": "Don Ward",
+        "photoUrl": "/images/people/don_ward.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+DonWard",
+            "name": "Google+"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/donwardpeng",
+            "name": "GitHub"
+          }
+        ],
+        "title": "Organizer"
+      },
+      {
+        "name": "Scott Weber",
+        "photoUrl": "/images/people/scott_weber.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+ScottWeberD",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/ScottDWeber",
+            "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/scottdweber",
+            "name": "GitHub"
           },
           {
             "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
+            "link": "https://scottweber.com/",
             "name": "Website"
           }
         ],
-        "title": "Android Stream"
+        "title": "Organizer"
       }
     ]
   }
