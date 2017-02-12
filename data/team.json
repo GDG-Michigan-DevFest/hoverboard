@@ -7,14 +7,14 @@
         "photoUrl": "/images/people/todd_deland.jpg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
+            "icon": "twitter",
+            "link": "https://twitter.com/todddeland",
+            "name": "Twitter"
           },
           {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
+            "icon": "github",
+            "link": "https://github.com/mynameistodd",
+            "name": "GitHub"
           }
         ],
         "title": "Organizer"
@@ -23,21 +23,6 @@
         "name": "Justin Kozak",
         "photoUrl": "/images/people/justin_kozak.jpg",
         "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
-            "name": "Twitter"
-          }
         ],
         "title": "Organizer"
       },
