@@ -23,6 +23,16 @@
         "name": "Justin Kozak",
         "photoUrl": "/images/people/justin_kozak.jpg",
         "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/justin-kozak-90b0411a/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/JKOZAK726",
+            "name": "Twitter"
+          }
         ],
         "title": "Organizer"
       },
