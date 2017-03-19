@@ -33,5 +33,36 @@
                 "link":"https://twitter.com/DavidMehi"
             }
         ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "David Smith",
+        "title": "CIO",
+        "company": "SPLT",
+        "companyLogo": "/images/logos/splt.jpg",
+        "country": "Lansing, Michigan",
+        "photoUrl": "/images/people/david_smith.png",
+        "shortBio": "David is a geek who has been on the cutting edge of technology...",
+        "bio": "David is a geek who has been on the cutting edge of technology. He formerly ran a mobile development consultancy and currently is the CTO @ SPLT where his team helps make commuting awesome for Fortune 1000 companies.",
+        "tags": [
+            "Android",
+            "React"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/davidssmith"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link":"https://twitter.com/DavidSilvaSmith"
+            }
+        ]
     }
 }
