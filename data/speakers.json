@@ -11,7 +11,8 @@
         "shortBio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs...",
         "bio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs. He spent 3 years at Apigee before Google purchased them in November, 2016. His focus is on Apigee but he is familiar with other parts of the Google cloud platform as well.",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "API"
         ],
         "badges": [
 
@@ -40,7 +41,7 @@
         "name": "David Smith",
         "title": "CIO",
         "company": "SPLT",
-        "companyLogo": "/images/logos/splt.jpg",
+        "companyLogo": "/images/logos/splt.png",
         "country": "Lansing, Michigan",
         "photoUrl": "/images/people/david_smith.png",
         "shortBio": "David is a geek who has been on the cutting edge of technology...",
@@ -63,6 +64,125 @@
                 "name": "Twitter",
                 "link":"https://twitter.com/DavidSilvaSmith"
             }
+        ]
+    },
+     "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Kyle Paul",
+        "title": "Architect & Evangelist",
+        "company": "Phisionary",
+        "companyLogo": "/images/logos/Phisionary.png",
+        "country": "Lenexa, Kansas",
+        "photoUrl": "/images/people/kyle_paul.jpg",
+        "shortBio": "Kyle is an architect & evangelist for his start-up Phisionary...",
+        "bio": "Kyle is an architect & evangelist for his start-up Phisionary and organizer of the Google Developer Group (GDG) in Kansas City. He enjoys building and hacking on the web as well as photographing the outdoors.",
+        "tags": [
+            "Firebase"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/neojato"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link":"https://twitter.com/kpaul86"
+            }
+        ]
+    },
+     "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Robbie Small",
+        "title": "Mobile Software Engineer",
+        "company": "Duo Security",
+        "companyLogo": "/images/logos/duo_security.png",
+        "country": "Ann Arbor, Michigan",
+        "photoUrl": "/images/people/robbie_small.jpg",
+        "shortBio": "Avid skateboarder, snowboarder, photographer, and all around nerd hailing from Ann Arbor, Michigan...",
+        "bio": "Avid skateboarder, snowboarder, photographer, and all around nerd hailing from Ann Arbor, Michigan. Robbie has been developing Android apps for just over 4 years. University of Michigan graduate turned full time Mobile Software Engineer at Duo Security in Ann Arbor, MI. He also created and maintains a side project, Hubba Skate Spots, which has been in the Google Play Store and iOS App Store since 2014.",
+        "tags": [
+            "Android",
+            "SafetyNet"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+        ]
+    },
+         "5": {
+        "id": 5,
+        "featured": true,
+        "name": "David Truxall",
+        "title": "Developer",
+        "company": "Hewlett Packard Enterprises",
+        "companyLogo": "/images/logos/hpe.png",
+        "country": "Detroit, Michigan",
+        "photoUrl": "/images/people/david_truxall.jpg",
+        "shortBio": "A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995...",
+        "bio": "A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise technologies, modeling business processes, and building public web sites and mobile apps for some of the largest organizations in North America. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book \"Android Best Practices\", he speaks at local conferences and user groups. Currently Trux is working in mobility at Hewlett Packard Enterprise, bringing mobile apps and their supporting systems to the public sector.",
+        "tags": [
+            "Android",
+            "Authenication"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link":"https://twitter.com/davetrux"
+            }
+        ]
+    },
+      "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Kevin Carpenter",
+        "title": "Android Developer",
+        "company": "Notion AI",
+        "companyLogo": "/images/logos/notionai.svg",
+        "country": "Detroit, Michigan",
+        "photoUrl": "/images/people/kevin_carpenter.jpg",
+        "shortBio": "Kevin is an Android Engineer at Notion AI.",
+        "bio": "Kevin is an Android Engineer at Notion AI.",
+        "tags": [
+            "Android",
+            "RX"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+        ]
+    },
+     "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Godfrey Nolan",
+        "title": "Android Developer",
+        "company": "RIIS",
+        "companyLogo": "/images/logos/RIIS.png",
+        "country": "Troy, Michigan",
+        "photoUrl": "/images/people/godfrey_nolan.jpg",
+        "shortBio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy, MI. He is also author...",
+        "bio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy.  He is also author of \"Agile Android\", \"Bulletproof Android\", \"Android Best Practices\", \"Decompiling Android\" and \"Decompiling Java.\" Godfrey has spoken at DroidCon, AnDevcon as well as JavaOne, ASP-Connections, VSLive, Codemash, Code PaLOUsa, 1DevDay and many local Java and .Net user groups on a wide range of topics such as Continuous Integration, Unit Testing and mobile security.",
+        "tags": [
+            "Android Studio",
+            "Refactoring"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
         ]
     }
 }

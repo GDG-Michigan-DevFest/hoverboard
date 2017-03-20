@@ -1,4 +1,48 @@
 {
+  "201": {
+    "id": 201,
+    "title": "Introductions",
+    "description": "Introductions to the day.",
+    "speakers": [
+    ],
+    "language": "",
+    "complexity": "",
+    "tags": [
+    ]
+  },
+    "202": {
+    "id": 202,
+    "title": "Lunch",
+    "description": "Lunch",
+    "speakers": [
+    ],
+    "language": "",
+    "complexity": "",
+    "tags": [
+    ]
+  },
+    "203": {
+    "id": 203,
+    "title": "Wrap-Up",
+    "description": "Wrap-up and raffle",
+    "speakers": [
+    ],
+    "language": "",
+    "complexity": "",
+    "tags": [
+    ]
+  },
+    "300": {
+    "id": 300,
+    "title": "Session",
+    "description": "Session",
+    "speakers": [
+    ],
+    "language": "",
+    "complexity": "",
+    "tags": [
+    ]
+  },
   "101": {
     "id": 101,
     "title": "Google Cloud Platform Overview",
@@ -11,5 +55,20 @@
     "tags": [
       "Cloud"
     ]
+  },
+  "102": {
+    "id": 102,
+    "title": "Develop Your API Program Using the Google Cloud Platform",
+    "description": "This talk will cover developing an API program for your company.  It will cover why and how to build an API program, the players involved, REST APIs, comparison of the Apigee platform and GCP Endpoints, a demo, building your developer community and other related technologies.",
+    "speakers": [
+      1
+    ],
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Cloud",
+      "API"
+    ]
   }
 }
+
