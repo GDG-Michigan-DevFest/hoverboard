@@ -25,7 +25,19 @@
    {
     "title": "blank-partner",
     "logos": [
-    	 {
+    {
+        "name": "Little Ceasers",
+        "url": "https://littlecaesars.com/en-us/Join-Our-Brand/Careers",
+        "logoUrl": "../images/logos/lc.png",
+        "width": 170
+    },
+    {
+        "name": "",
+        "url": "",
+        "logoUrl": "../images/logos/BlankSpace.png",
+        "width": 50
+    },
+    {
         "name": "RIIS",
         "url": "http://www.riis.com/",
         "logoUrl": "../images/logos/RIIS.png",
@@ -35,9 +47,9 @@
         "name": "",
         "url": "",
         "logoUrl": "../images/logos/BlankSpace.png",
-        "width": 100
-	},
-	 {
+        "width": 50
+    },
+    {
         "name": "Arbormoon Software",
         "url": "http://www.arbormoon.com/",
         "logoUrl": "../images/logos/arbormoonlogo.png",
