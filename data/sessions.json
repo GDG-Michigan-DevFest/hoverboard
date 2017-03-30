@@ -85,7 +85,7 @@
   "501": {
     "id": 501,
     "title": "Google Cloud Platform Overview",
-    "description": "This talk will give an overview of all of the GCP technologies available to developers.  It is meant to educate developers on what is available and to help them find the technology they need for their projects.  It is not meant to compare GCP with other cloud platforms.  A few quick demos may be shown depending on time.",
+    "description": "The Google Cloud Platform has evolved over the years to be one of the top cloud computing platforms available.  This talk will give an overview of all of the Cloud Platform technologies available to developers and how they can use them on their projects. A few demos will be shown during the talk.",
     "speakers": [
       1
     ],
