@@ -20,23 +20,6 @@
         "title": "Organizer"
       },
       {
-        "name": "Justin Kozak",
-        "photoUrl": "/images/people/justin_kozak.jpg",
-        "socials": [
-          {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/justin-kozak-90b0411a/",
-            "name": "LinkedIn"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/JKOZAK726",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Organizer"
-      },
-      {
         "name": "Dave Koziol",
         "photoUrl": "/images/people/dave_koziol.jpg",
         "socials": [
@@ -56,28 +39,6 @@
       {
         "name": "Kris Peach",
         "photoUrl": "/images/people/kris_peach.jpg",
-        "title": "Organizer"
-      },
-      {
-        "name": "Jim Vitek",
-        "photoUrl": "/images/people/jim_vitek.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+JimVitek",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/vitek",
-            "name": "Twitter"
-          },
-          {
-            "icon": "github",
-            "link": "https://github.com/jimvitek",
-            "name": "GitHub"
-          }
-        ],
         "title": "Organizer"
       },
       {

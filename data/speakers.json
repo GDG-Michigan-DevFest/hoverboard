@@ -1,360 +1,360 @@
 {
-    "1": {
-        "id": 1,
-        "featured": true,
-        "name": "Dave Mehi",
-        "title": "Cloud Architect",
-        "company": "Google",
-        "companyLogo": "/images/logos/google.svg",
-        "country": "Detroit, Michigan",
-        "photoUrl": "/images/people/david_mehi.jpg",
-        "shortBio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs...",
-        "bio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs. He spent 3 years at Apigee before Google purchased them in November, 2016. His focus is on Apigee but he is familiar with other parts of the Google cloud platform as well.",
-        "tags": [
-            "Cloud",
-            "API"
-        ],
-        "badges": [
+    // "1": {
+    //     "id": 1,
+    //     "featured": true,
+    //     "name": "Dave Mehi",
+    //     "title": "Cloud Architect",
+    //     "company": "Google",
+    //     "companyLogo": "/images/logos/google.svg",
+    //     "country": "Detroit, Michigan",
+    //     "photoUrl": "/images/people/david_mehi.jpg",
+    //     "shortBio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs...",
+    //     "bio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs. He spent 3 years at Apigee before Google purchased them in November, 2016. His focus is on Apigee but he is familiar with other parts of the Google cloud platform as well.",
+    //     "tags": [
+    //         "Cloud",
+    //         "API"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://about.me/davemehi"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/david-mehi-5944122/"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link":"https://twitter.com/DavidMehi"
-            }
-        ]
-    },
-    "2": {
-        "id": 2,
-        "featured": true,
-        "name": "David Smith",
-        "title": "CIO",
-        "company": "SPLT",
-        "companyLogo": "/images/logos/splt.png",
-        "country": "Detroit, Michigan",
-        "photoUrl": "/images/people/david_smith.png",
-        "shortBio": "David is a geek who has been on the cutting edge of technology...",
-        "bio": "David is a geek who has been on the cutting edge of technology. He formerly ran a mobile development consultancy and currently is the CTO @ SPLT where his team helps make commuting awesome for Fortune 1000 companies.",
-        "tags": [
-            "Android",
-            "React"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //         {
+    //             "icon": "website",
+    //             "name": "Website",
+    //             "link": "https://about.me/davemehi"
+    //         },
+    //         {
+    //             "icon": "linkedin",
+    //             "name": "LinkedIn",
+    //             "link": "https://www.linkedin.com/in/david-mehi-5944122/"
+    //         },
+    //         {
+    //             "icon": "twitter",
+    //             "name": "Twitter",
+    //             "link":"https://twitter.com/DavidMehi"
+    //         }
+    //     ]
+    // },
+    // "2": {
+    //     "id": 2,
+    //     "featured": true,
+    //     "name": "David Smith",
+    //     "title": "CIO",
+    //     "company": "SPLT",
+    //     "companyLogo": "/images/logos/splt.png",
+    //     "country": "Detroit, Michigan",
+    //     "photoUrl": "/images/people/david_smith.png",
+    //     "shortBio": "David is a geek who has been on the cutting edge of technology...",
+    //     "bio": "David is a geek who has been on the cutting edge of technology. He formerly ran a mobile development consultancy and currently is the CTO @ SPLT where his team helps make commuting awesome for Fortune 1000 companies.",
+    //     "tags": [
+    //         "Android",
+    //         "React"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/davidssmith"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link":"https://twitter.com/DavidSilvaSmith"
-            }
-        ]
-    },
-     "3": {
-        "id": 3,
-        "featured": true,
-        "name": "Kyle Paul",
-        "title": "Architect & Evangelist",
-        "company": "Phisionary",
-        "companyLogo": "/images/logos/Phisionary.png",
-        "country": "Lenexa, Kansas",
-        "photoUrl": "/images/people/kyle_paul.jpg",
-        "shortBio": "Kyle is an architect & evangelist for his start-up Phisionary...",
-        "bio": "Kyle is an architect & evangelist for his start-up Phisionary and organizer of the Google Developer Group (GDG) in Kansas City. He enjoys building and hacking on the web as well as photographing the outdoors.",
-        "tags": [
-            "Firebase"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //         {
+    //             "icon": "linkedin",
+    //             "name": "LinkedIn",
+    //             "link": "https://www.linkedin.com/in/davidssmith"
+    //         },
+    //         {
+    //             "icon": "twitter",
+    //             "name": "Twitter",
+    //             "link":"https://twitter.com/DavidSilvaSmith"
+    //         }
+    //     ]
+    // },
+    //  "3": {
+    //     "id": 3,
+    //     "featured": true,
+    //     "name": "Kyle Paul",
+    //     "title": "Architect & Evangelist",
+    //     "company": "Phisionary",
+    //     "companyLogo": "/images/logos/Phisionary.png",
+    //     "country": "Lenexa, Kansas",
+    //     "photoUrl": "/images/people/kyle_paul.jpg",
+    //     "shortBio": "Kyle is an architect & evangelist for his start-up Phisionary...",
+    //     "bio": "Kyle is an architect & evangelist for his start-up Phisionary and organizer of the Google Developer Group (GDG) in Kansas City. He enjoys building and hacking on the web as well as photographing the outdoors.",
+    //     "tags": [
+    //         "Firebase"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "github",
-                "name": "Github",
-                "link": "https://github.com/neojato"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link":"https://twitter.com/kpaul86"
-            }
-        ]
-    },
-     "4": {
-        "id": 4,
-        "featured": true,
-        "name": "Robbie Small",
-        "title": "Mobile Software Engineer",
-        "company": "Duo Security",
-        "companyLogo": "/images/logos/duo_security.png",
-        "country": "Ann Arbor, Michigan",
-        "photoUrl": "/images/people/robbie_small.jpg",
-        "shortBio": "Avid skateboarder, snowboarder, photographer, and all around nerd hailing from Ann Arbor, Michigan...",
-        "bio": "Avid skateboarder, snowboarder, photographer, and all around nerd hailing from Ann Arbor, Michigan. Robbie has been developing Android apps for just over 4 years. University of Michigan graduate turned full time Mobile Software Engineer at Duo Security in Ann Arbor, MI. He also created and maintains a side project, Hubba Skate Spots, which has been in the Google Play Store and iOS App Store since 2014.",
-        "tags": [
-            "Android",
-            "SafetyNet"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //         {
+    //             "icon": "github",
+    //             "name": "Github",
+    //             "link": "https://github.com/neojato"
+    //         },
+    //         {
+    //             "icon": "twitter",
+    //             "name": "Twitter",
+    //             "link":"https://twitter.com/kpaul86"
+    //         }
+    //     ]
+    // },
+    //  "4": {
+    //     "id": 4,
+    //     "featured": true,
+    //     "name": "Robbie Small",
+    //     "title": "Mobile Software Engineer",
+    //     "company": "Duo Security",
+    //     "companyLogo": "/images/logos/duo_security.png",
+    //     "country": "Ann Arbor, Michigan",
+    //     "photoUrl": "/images/people/robbie_small.jpg",
+    //     "shortBio": "Avid skateboarder, snowboarder, photographer, and all around nerd hailing from Ann Arbor, Michigan...",
+    //     "bio": "Avid skateboarder, snowboarder, photographer, and all around nerd hailing from Ann Arbor, Michigan. Robbie has been developing Android apps for just over 4 years. University of Michigan graduate turned full time Mobile Software Engineer at Duo Security in Ann Arbor, MI. He also created and maintains a side project, Hubba Skate Spots, which has been in the Google Play Store and iOS App Store since 2014.",
+    //     "tags": [
+    //         "Android",
+    //         "SafetyNet"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-        ]
-    },
-         "5": {
-        "id": 5,
-        "featured": true,
-        "name": "David Truxall",
-        "title": "Developer",
-        "company": "Hewlett Packard Enterprises",
-        "companyLogo": "/images/logos/hpe.png",
-        "country": "Detroit, Michigan",
-        "photoUrl": "/images/people/david_truxall.jpg",
-        "shortBio": "A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995...",
-        "bio": "A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise technologies, modeling business processes, and building public web sites and mobile apps for some of the largest organizations in North America. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book \"Android Best Practices\", he speaks at local conferences and user groups. Currently Trux is working in mobility at Hewlett Packard Enterprise, bringing mobile apps and their supporting systems to the public sector.",
-        "tags": [
-            "Android",
-            "Authenication"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //     ]
+    // },
+    //      "5": {
+    //     "id": 5,
+    //     "featured": true,
+    //     "name": "David Truxall",
+    //     "title": "Developer",
+    //     "company": "Hewlett Packard Enterprises",
+    //     "companyLogo": "/images/logos/hpe.png",
+    //     "country": "Detroit, Michigan",
+    //     "photoUrl": "/images/people/david_truxall.jpg",
+    //     "shortBio": "A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995...",
+    //     "bio": "A long time resident of metro Detroit, Dr. Truxall has been slinging code for a living since 1995, working with enterprise technologies, modeling business processes, and building public web sites and mobile apps for some of the largest organizations in North America. Always an enthusiast for troubleshooting systems, Trux has rescued numerous troubled applications and improved their performance. Co-author of the book \"Android Best Practices\", he speaks at local conferences and user groups. Currently Trux is working in mobility at Hewlett Packard Enterprise, bringing mobile apps and their supporting systems to the public sector.",
+    //     "tags": [
+    //         "Android",
+    //         "Authenication"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link":"https://twitter.com/davetrux"
-            }
-        ]
-    },
-      "6": {
-        "id": 6,
-        "featured": true,
-        "name": "Kevin Carpenter",
-        "title": "Android Developer",
-        "company": "Notion AI",
-        "companyLogo": "/images/logos/notionai.svg",
-        "country": "Detroit, Michigan",
-        "photoUrl": "/images/people/kevin_carpenter.jpg",
-        "shortBio": "Kevin is an Android Engineer at Notion AI.",
-        "bio": "Kevin is an Android Engineer at Notion AI.",
-        "tags": [
-            "Android",
-            "RX"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //         {
+    //             "icon": "twitter",
+    //             "name": "Twitter",
+    //             "link":"https://twitter.com/davetrux"
+    //         }
+    //     ]
+    // },
+    //   "6": {
+    //     "id": 6,
+    //     "featured": true,
+    //     "name": "Kevin Carpenter",
+    //     "title": "Android Developer",
+    //     "company": "Notion AI",
+    //     "companyLogo": "/images/logos/notionai.svg",
+    //     "country": "Detroit, Michigan",
+    //     "photoUrl": "/images/people/kevin_carpenter.jpg",
+    //     "shortBio": "Kevin is an Android Engineer at Notion AI.",
+    //     "bio": "Kevin is an Android Engineer at Notion AI.",
+    //     "tags": [
+    //         "Android",
+    //         "RX"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-        ]
-    },
-     "7": {
-        "id": 7,
-        "featured": true,
-        "name": "Godfrey Nolan",
-        "title": "Android Developer",
-        "company": "RIIS",
-        "companyLogo": "/images/logos/RIIS.png",
-        "country": "Troy, Michigan",
-        "photoUrl": "/images/people/godfrey_nolan.jpg",
-        "shortBio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy, MI. He is also author...",
-        "bio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy.  He is also author of \"Agile Android\", \"Bulletproof Android\", \"Android Best Practices\", \"Decompiling Android\" and \"Decompiling Java.\" Godfrey has spoken at DroidCon, AnDevcon as well as JavaOne, ASP-Connections, VSLive, Codemash, Code PaLOUsa, 1DevDay and many local Java and .Net user groups on a wide range of topics such as Continuous Integration, Unit Testing and mobile security.",
-        "tags": [
-            "Android Studio",
-            "Refactoring"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //     ]
+    // },
+    //  "7": {
+    //     "id": 7,
+    //     "featured": true,
+    //     "name": "Godfrey Nolan",
+    //     "title": "Android Developer",
+    //     "company": "RIIS",
+    //     "companyLogo": "/images/logos/RIIS.png",
+    //     "country": "Troy, Michigan",
+    //     "photoUrl": "/images/people/godfrey_nolan.jpg",
+    //     "shortBio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy, MI. He is also author...",
+    //     "bio": "Godfrey Nolan is founder and president of RIIS LLC, a mobile development firm in Troy.  He is also author of \"Agile Android\", \"Bulletproof Android\", \"Android Best Practices\", \"Decompiling Android\" and \"Decompiling Java.\" Godfrey has spoken at DroidCon, AnDevcon as well as JavaOne, ASP-Connections, VSLive, Codemash, Code PaLOUsa, 1DevDay and many local Java and .Net user groups on a wide range of topics such as Continuous Integration, Unit Testing and mobile security.",
+    //     "tags": [
+    //         "Android Studio",
+    //         "Refactoring"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-        ]
-    },
-    "8": {
-        "id": 8,
-        "featured": true,
-        "name": "Shriyash Jalukar",
-        "title": "Student",
-        "company": "Student",
-        "companyLogo": "",
-        "country": "Michigan",
-        "photoUrl": "/images/people/shriyash_jalukar.jpg",
-        "shortBio": "I'm a Computer Science student and web developer...",
-        "bio": "I'm a Computer Science student and web developer. I previously worked at Saga, a full scale digital marketing company in Detroit, as a web developer. I also organize giant university hackathons like MHacks at the University of Michigan, and BoilerMake at Purdue.",
-        "tags": [
-            "Chrome Extensions"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //     ]
+    // },
+    // "8": {
+    //     "id": 8,
+    //     "featured": true,
+    //     "name": "Shriyash Jalukar",
+    //     "title": "Student",
+    //     "company": "Student",
+    //     "companyLogo": "",
+    //     "country": "Michigan",
+    //     "photoUrl": "/images/people/shriyash_jalukar.jpg",
+    //     "shortBio": "I'm a Computer Science student and web developer...",
+    //     "bio": "I'm a Computer Science student and web developer. I previously worked at Saga, a full scale digital marketing company in Detroit, as a web developer. I also organize giant university hackathons like MHacks at the University of Michigan, and BoilerMake at Purdue.",
+    //     "tags": [
+    //         "Chrome Extensions"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-        ]
-    }
-    ,
-    "9": {
-        "id": 9,
-        "featured": true,
-        "name": "Dan Baran",
-        "title": "",
-        "company": "",
-        "companyLogo": "",
-        "country": "Michigan",
-        "photoUrl": "/images/people/dan_baran.jpg",
-        "shortBio": "",
-        "bio": "",
-        "tags": [
-            "Analytics"
-        ],
-        "badges": [
+    //     ],
+    //     "socials": [
+    //     ]
+    // }
+    // ,
+    // "9": {
+    //     "id": 9,
+    //     "featured": true,
+    //     "name": "Dan Baran",
+    //     "title": "",
+    //     "company": "",
+    //     "companyLogo": "",
+    //     "country": "Michigan",
+    //     "photoUrl": "/images/people/dan_baran.jpg",
+    //     "shortBio": "",
+    //     "bio": "",
+    //     "tags": [
+    //         "Analytics"
+    //     ],
+    //     "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link":"https://twitter.com/defragger"
-            }
-        ]
-    },
-     "10": {
-    "id": 10,
-    "featured": true,
-    "name": "Oliver Goldbart",
-    "title": "Android Developer",
-    "company": "StockX",
-    "companyLogo": "/images/logos/stockx.svg",
-    "country": "Detroit, Michigan",
-    "photoUrl": "/images/people/oliver_goldbart.jpg",
-    "shortBio": "Oliver Goldbart is an an Android Developer for the Detroit-based company: StockX...",
-    "bio": "Oliver Goldbart is an an Android Developer for the Detroit-based company: StockX.  Currently he is developing an internal Android app for StockX's Sneaker Authentication Operations Team, with the goal of modernizing their unique logistic flow.  Previously he was an Android Developer at NCR in Atlanta, working on their white-label restaurant online-ordering apps, and prior to that he studied Computer Science at Georgia Tech with a focus on Media & Artificial Intelligence-related computing.  Oliver is also an avid Sneakerhead.",
-    "tags": [
-        "Android"
-    ],
-    "badges": [
+    //     ],
+    //     "socials": [
+    //         {
+    //             "icon": "twitter",
+    //             "name": "Twitter",
+    //             "link":"https://twitter.com/defragger"
+    //         }
+    //     ]
+    // },
+    //  "10": {
+    // "id": 10,
+    // "featured": true,
+    // "name": "Oliver Goldbart",
+    // "title": "Android Developer",
+    // "company": "StockX",
+    // "companyLogo": "/images/logos/stockx.svg",
+    // "country": "Detroit, Michigan",
+    // "photoUrl": "/images/people/oliver_goldbart.jpg",
+    // "shortBio": "Oliver Goldbart is an an Android Developer for the Detroit-based company: StockX...",
+    // "bio": "Oliver Goldbart is an an Android Developer for the Detroit-based company: StockX.  Currently he is developing an internal Android app for StockX's Sneaker Authentication Operations Team, with the goal of modernizing their unique logistic flow.  Previously he was an Android Developer at NCR in Atlanta, working on their white-label restaurant online-ordering apps, and prior to that he studied Computer Science at Georgia Tech with a focus on Media & Artificial Intelligence-related computing.  Oliver is also an avid Sneakerhead.",
+    // "tags": [
+    //     "Android"
+    // ],
+    // "badges": [
 
-    ],
-    "socials": [
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link":"www.linkedin.com/in/oliver-goldbart-013a1952"
-        }
-    ]
-    },
-     "11": {
-    "id": 11,
-    "featured": true,
-    "name": "Mary Bobbitt",
-    "title": "Training Strategist",
-    "company": "Title Source",
-    "companyLogo": "/images/logos/titlesource.png",
-    "country": "Detroit, Michigan",
-    "photoUrl": "/images/people/mary_bobbitt.jpg",
-    "shortBio": "Mary Bobbitt is a training strategist at Title Source. She works to train new team members in agile processes...",
-    "bio": "Mary Bobbitt is a training strategist at Title Source. She works to train new team members in agile processes, basic programming skills, and seeks to push her team forward with new technology. Mary came from a communication background and was a debate coach at Wayne State University and Liberty University. She combines this communication background with her work in technology to help share best practices across the organization.",
-    "tags": [
-        "Technology"
-    ],
-    "badges": [
+    // ],
+    // "socials": [
+    //     {
+    //         "icon": "linkedin",
+    //         "name": "LinkedIn",
+    //         "link":"www.linkedin.com/in/oliver-goldbart-013a1952"
+    //     }
+    // ]
+    // },
+    //  "11": {
+    // "id": 11,
+    // "featured": true,
+    // "name": "Mary Bobbitt",
+    // "title": "Training Strategist",
+    // "company": "Title Source",
+    // "companyLogo": "/images/logos/titlesource.png",
+    // "country": "Detroit, Michigan",
+    // "photoUrl": "/images/people/mary_bobbitt.jpg",
+    // "shortBio": "Mary Bobbitt is a training strategist at Title Source. She works to train new team members in agile processes...",
+    // "bio": "Mary Bobbitt is a training strategist at Title Source. She works to train new team members in agile processes, basic programming skills, and seeks to push her team forward with new technology. Mary came from a communication background and was a debate coach at Wayne State University and Liberty University. She combines this communication background with her work in technology to help share best practices across the organization.",
+    // "tags": [
+    //     "Technology"
+    // ],
+    // "badges": [
 
-    ],
-    "socials": [
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link":"https://www.linkedin.com/in/mary-bobbitt-47272852"
-        }
-    ]
-    },
-     "12": {
-    "id": 12,
-    "featured": true,
-    "name": "Jacob VanAssche",
-    "title": "Software Engineer",
-    "company": "Arbormoon Software",
-    "companyLogo": "/images/logos/arbormoon.png",
-    "country": "Ann Arbor, Michigan",
-    "photoUrl": "/images/people/jacob_vanassche.png",
-    "shortBio": "Jacob is a Software Engineer at Arbormoon Software Inc. focusing on developing Android mobile applications...",
-    "bio": "Jacob is a Software Engineer at Arbormoon Software Inc. focusing on developing Android mobile applications. He recently got his Master's degree in Computer Science from Wayne State and also has a Bachelor's degree in Software Engineering from the University of Detroit Mercy. He enjoys collecting and solving rubik's cubes and problem solving in general. He also has a passion for learning about new technologies especially in the mobile space.",
-    "tags": [
-        "Android",
-        "Beacon"
-    ],
-    "badges": [
+    // ],
+    // "socials": [
+    //     {
+    //         "icon": "linkedin",
+    //         "name": "LinkedIn",
+    //         "link":"https://www.linkedin.com/in/mary-bobbitt-47272852"
+    //     }
+    // ]
+    // },
+    //  "12": {
+    // "id": 12,
+    // "featured": true,
+    // "name": "Jacob VanAssche",
+    // "title": "Software Engineer",
+    // "company": "Arbormoon Software",
+    // "companyLogo": "/images/logos/arbormoon.png",
+    // "country": "Ann Arbor, Michigan",
+    // "photoUrl": "/images/people/jacob_vanassche.png",
+    // "shortBio": "Jacob is a Software Engineer at Arbormoon Software Inc. focusing on developing Android mobile applications...",
+    // "bio": "Jacob is a Software Engineer at Arbormoon Software Inc. focusing on developing Android mobile applications. He recently got his Master's degree in Computer Science from Wayne State and also has a Bachelor's degree in Software Engineering from the University of Detroit Mercy. He enjoys collecting and solving rubik's cubes and problem solving in general. He also has a passion for learning about new technologies especially in the mobile space.",
+    // "tags": [
+    //     "Android",
+    //     "Beacon"
+    // ],
+    // "badges": [
 
-    ],
-    "socials": [
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link":"https://www.linkedin.com/in/jacob-vanassche-38b55362/"
-        }
-    ]
-    },
-     "13": {
-    "id": 13,
-    "featured": true,
-    "name": "Jason Mai",
-    "title": "Software Engineer",
-    "company": "Quicken Loans",
-    "companyLogo": "/images/logos/QuickenLoans.jpg",
-    "country": "Detroit, Michigan",
-    "photoUrl": "/images/people/jason_mai.jpg",
-    "shortBio": "Jason Mai is a Senior Software Engineer at Quicken Loans...",
-    "bio": "Jason Mai is a Senior Software Engineer at Quicken Loans. Previously he worked as a software engineer at American Express, Onstar and Ford.",
-    "tags": [
-        "Android",
-        "Google Cloud Platform",
-        "Tensor Flow",
-        "Google Play Services"
+    // ],
+    // "socials": [
+    //     {
+    //         "icon": "linkedin",
+    //         "name": "LinkedIn",
+    //         "link":"https://www.linkedin.com/in/jacob-vanassche-38b55362/"
+    //     }
+    // ]
+    // },
+    //  "13": {
+    // "id": 13,
+    // "featured": true,
+    // "name": "Jason Mai",
+    // "title": "Software Engineer",
+    // "company": "Quicken Loans",
+    // "companyLogo": "/images/logos/QuickenLoans.jpg",
+    // "country": "Detroit, Michigan",
+    // "photoUrl": "/images/people/jason_mai.jpg",
+    // "shortBio": "Jason Mai is a Senior Software Engineer at Quicken Loans...",
+    // "bio": "Jason Mai is a Senior Software Engineer at Quicken Loans. Previously he worked as a software engineer at American Express, Onstar and Ford.",
+    // "tags": [
+    //     "Android",
+    //     "Google Cloud Platform",
+    //     "Tensor Flow",
+    //     "Google Play Services"
 
-    ],
-    "badges": [
+    // ],
+    // "badges": [
 
-    ],
-    "socials": [
-    ]
-    },
-     "14": {
-    "id": 14,
-    "featured": true,
-    "name": "Scott Showalter",
-    "title": "Agile Experience Architect",
-    "company": "",
-    "companyLogo": "",
-    "country": "Detroit, Michigan",
-    "photoUrl": "/images/people/scott_showalter.jpg",
-    "shortBio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences for users of digital and physical products...",
-    "bio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences for users of digital and physical products in a diversity of industries including security, banking, dining, transit and mobility. Scott encourages the use of Lean UX alongside agile delivery to iteratively conceive and validate components of an experience with complex adaptive systems. Scott speaks frequently at UX and Agile conferences, teaching people how to build teams that can create the right products and solve meaningful problems that users actually care about. He does nothing without first making connections with real users, understanding their journey, empathizing with their needs, and considering how they think and work to accomplish their goals within the context of the problem space.",
-    "tags": [
-        "UX"
-    ],
-    "badges": [
+    // ],
+    // "socials": [
+    // ]
+    // },
+    //  "14": {
+    // "id": 14,
+    // "featured": true,
+    // "name": "Scott Showalter",
+    // "title": "Agile Experience Architect",
+    // "company": "",
+    // "companyLogo": "",
+    // "country": "Detroit, Michigan",
+    // "photoUrl": "/images/people/scott_showalter.jpg",
+    // "shortBio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences for users of digital and physical products...",
+    // "bio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences for users of digital and physical products in a diversity of industries including security, banking, dining, transit and mobility. Scott encourages the use of Lean UX alongside agile delivery to iteratively conceive and validate components of an experience with complex adaptive systems. Scott speaks frequently at UX and Agile conferences, teaching people how to build teams that can create the right products and solve meaningful problems that users actually care about. He does nothing without first making connections with real users, understanding their journey, empathizing with their needs, and considering how they think and work to accomplish their goals within the context of the problem space.",
+    // "tags": [
+    //     "UX"
+    // ],
+    // "badges": [
 
-    ],
-    "socials": [
-         {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link":"https://twitter.com/scottrageous"
-        }
-    ]
-    }
+    // ],
+    // "socials": [
+    //      {
+    //         "icon": "twitter",
+    //         "name": "Twitter",
+    //         "link":"https://twitter.com/scottrageous"
+    //     }
+    // ]
+    // }
 }
 

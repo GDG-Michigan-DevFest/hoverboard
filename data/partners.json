@@ -1,71 +1,71 @@
-[
-	  {
-    "title": "template-creator",
-    "logos": [
-	{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg",
-        "width": 170
-	},
-	{
-        "name": "",
-        "url": "",
-        "logoUrl": "../images/logos/BlankSpace.png",
-        "width": 100
-	},
-    {
-        "name": "Quicken Loans",
-        "url": "https://www.quickenloans.com/",
-        "logoUrl": "../images/logos/QuickenLoans.png",
-        "width": 170
-    }
-    ]
-  },
-   {
-    "title": "blank-partner",
-    "logos": [
-    {
-        "name": "Little Ceasers",
-        "url": "https://littlecaesars.com/en-us",
-        "logoUrl": "../images/logos/lc.png",
-        "width": 170
-    },
-    {
-        "name": "",
-        "url": "",
-        "logoUrl": "../images/logos/BlankSpace.png",
-        "width": 50
-    },
-    {
-        "name": "RIIS",
-        "url": "http://www.riis.com/",
-        "logoUrl": "../images/logos/RIIS.png",
-        "width": 170
-    },
-    {
-        "name": "",
-        "url": "",
-        "logoUrl": "../images/logos/BlankSpace.png",
-        "width": 50
-    },
-    {
-        "name": "Arbormoon Software",
-        "url": "http://www.arbormoon.com/",
-        "logoUrl": "../images/logos/arbormoonlogo.png",
-        "width": 170
-    }
-    ]
-	},
-  {
-    "title": "general-partner",
-    "logos": [
-      {
-        "name": "MTAM",
-        "url": "http://www.gomobilemichigan.org/",
-        "logoUrl": "../images/logos/MTAM-Logo.jpg",
-        "width": 170
-      }
-    ]
-  }
+// [
+// 	  {
+//     "title": "template-creator",
+//     "logos": [
+// 	{
+//         "name": "Google",
+//         "url": "https://www.google.com.ua/intl/en/about/",
+//         "logoUrl": "../images/logos/google.svg",
+//         "width": 170
+// 	},
+// 	{
+//         "name": "",
+//         "url": "",
+//         "logoUrl": "../images/logos/BlankSpace.png",
+//         "width": 100
+// 	},
+//     {
+//         "name": "Quicken Loans",
+//         "url": "https://www.quickenloans.com/",
+//         "logoUrl": "../images/logos/QuickenLoans.png",
+//         "width": 170
+//     }
+//     ]
+//   },
+//    {
+//     "title": "blank-partner",
+//     "logos": [
+//     {
+//         "name": "Little Ceasers",
+//         "url": "https://littlecaesars.com/en-us",
+//         "logoUrl": "../images/logos/lc.png",
+//         "width": 170
+//     },
+//     {
+//         "name": "",
+//         "url": "",
+//         "logoUrl": "../images/logos/BlankSpace.png",
+//         "width": 50
+//     },
+//     {
+//         "name": "RIIS",
+//         "url": "http://www.riis.com/",
+//         "logoUrl": "../images/logos/RIIS.png",
+//         "width": 170
+//     },
+//     {
+//         "name": "",
+//         "url": "",
+//         "logoUrl": "../images/logos/BlankSpace.png",
+//         "width": 50
+//     },
+//     {
+//         "name": "Arbormoon Software",
+//         "url": "http://www.arbormoon.com/",
+//         "logoUrl": "../images/logos/arbormoonlogo.png",
+//         "width": 170
+//     }
+//     ]
+// 	},
+//   {
+//     "title": "general-partner",
+//     "logos": [
+//       {
+//         "name": "MTAM",
+//         "url": "http://www.gomobilemichigan.org/",
+//         "logoUrl": "../images/logos/MTAM-Logo.jpg",
+//         "width": 170
+//       }
+//     ]
+//   }
 ]

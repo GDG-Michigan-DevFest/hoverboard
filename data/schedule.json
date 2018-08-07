@@ -1,6 +1,6 @@
 [{
-    "date": "2017-04-22",
-    "dateReadable": "April 22",
+    "date": "2018-11-10",
+    "dateReadable": "November 10, 2018",
     "tracks": [{
         "title": "Android"
     }, {
@@ -12,70 +12,7 @@
         "sessions": [
             [201],
             [211]
-        ]},
-        {        
-        "startTime": "09:00",
-        "endTime": "9:50",
-        "sessions": [
-            [401],
-            [501]
-        ]},
-        {
-        "startTime": "10:00",
-        "endTime": "10:50",
-        "sessions": [
-            [402],
-            [503]
-        ]},
-        {
-        "startTime": "11:00",
-        "endTime": "11:50",
-        "sessions": [
-            [403],
-            [504]
-        ]},
-        {
-        "startTime": "12:00",
-        "endTime": "1:00",
-        "sessions": [
-            [202],
-            [212]
-        ]},
-        {
-        "startTime": "1:00",
-        "endTime": "1:50",
-        "sessions": [
-            [404],
-            [506]
-        ]},
-        {
-        "startTime": "2:00",
-        "endTime": "2:50",
-        "sessions": [
-            [405],
-            [505]
-        ]},
-        {
-        "startTime": "3:00",
-        "endTime": "3:50",
-        "sessions": [
-            [406],
-            [507]
-        ]},
-        {
-        "startTime": "4:00",
-        "endTime": "4:50",
-        "sessions": [
-            [407],
-            [508]
-        ]},
-        {
-        "startTime": "4:50",
-        "endTime": "5:15",
-        "sessions": [
-            [203],
-            [213]
-        ]}       
+        ]}
 ]
 
 }]

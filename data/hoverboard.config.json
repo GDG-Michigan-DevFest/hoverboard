@@ -1,9 +1,9 @@
 {
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyAzGbjlu3XCwXpM4xB5q5OQd4kxPm1vYgY",
+    "name": "michigandevfest2018",
+    "domain": "michigandevfest2018.firebaseapp.com",
+    "database": "https://michigandevfest2018.firebaseio.com",
+    "api": "AIzaSyCoy_75C05-_uoFzy48up_g7491-kR5PGg",
     "userSessionsPath": "/userSessions"
   },
   "pages": {
@@ -64,13 +64,13 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://michigandevfest.com/",
+  "url": "https://www.michigandevfest.com/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "partnershipProposition": "mailto:michigandevfest@gmail.com",
-  "disqusShortName": "hoverboard-gdg-x",
+  "disqusShortName": "hoverboard-gdg-midevfest",
   "languages": [
     {
       "name": "English",
@@ -148,7 +148,7 @@
       "caption": "days"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "midevfest",
   "social": [
   ],
   "tweetsSource": "/data/tweets.json",
