@@ -2,26 +2,26 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Dave Mehi",
+        "name": "Jason Rotole",
         "title": "",
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "Detroit, Michigan",
-        "photoUrl": "/images/people/mete_atamel.jpg",
-        "shortBio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs...",
-        "bio": "David Mehi works in Google's professional services area and his speciality is helping customers develop their API programs. He spent 3 years at Apigee before Google purchased them in November, 2016. His focus is on Apigee but he is familiar with other parts of the Google cloud platform as well.",
+        "photoUrl": "/images/people/jasonrotole.jpg",
+        "shortBio": "Jason Rotole has over 20 years of systems engineering and technical architecture experience...",
+        "bio": "Jason Rotole has over 20 years of systems engineering and technical architecture experience with a focus on data and analytics solutions in a private, hybrid and public cloud.  In his past, Jason has worked with large multinational organizations to solution and implement BigData solutions aimed at solving supply chain, customer and engineering challenges.  Jason currently works at Google helping organizations in the Great Lakes region to solve business problems using Google's cloud and analytic solutions.",
         "tags": [
-            "Cloud",
-            "Compute Engine",
+            "Big Query",
+            "Machine Learning",
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://about.me/davemehi"
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jasonrotole/"
             }
         ]
     }
