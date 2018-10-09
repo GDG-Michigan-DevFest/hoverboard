@@ -1,18 +1,148 @@
-[{
-    "date": "2018-11-10",
-    "dateReadable": "November 10, 2018",
-    "tracks": [{
-        "title": "Android"
-    }, {
-        "title": "Other Google Tech"
-    }],
-    "timeslots": [{
-        "startTime": "08:30",
-        "endTime": "9:00",
-        "sessions": [
-            [201],
-            [211]
-        ]}
+[
+    {
+        "date": "2018-11-10",
+        "dateReadable": "November 10, 2018",
+        "tracks": [
+            {
+                "title": "Web"
+            },
+            {
+                "title": "Mobile"
+            }
+        ],
+        "timeslots": [
+            {
+                "startTime": "08:00",
+                "endTime": "8:30",
+                "sessions": [
+                    [
+                        101
+                    ],
+                    [
+                        102
+                    ]
+                ]
+            },
+            {
+                "startTime": "08:30",
+                "endTime": "9:00",
+                "sessions": [
+                    [
+                        201
+                    ],
+                    [
+                        211
+                    ]
+                ]
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "9:50",
+                "sessions": [
+                    [
+                        301
+                    ],
+                    [
+                        302
+                    ]
+                ]
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "10:50",
+                "sessions": [
+                    [
+                        303
+                    ],
+                    [
+                        304
+                    ]
+                ]
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "11:50",
+                "sessions": [
+                    [
+                        305
+                    ],
+                    [
+                        306
+                    ]
+                ]
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "12:50",
+                "sessions": [
+                    [
+                        202
+                    ],
+                    [
+                        212
+                    ]
+                ]
+            },
+            {
+                "startTime": "1:00",
+                "endTime": "1:50",
+                "sessions": [
+                    [
+                        307
+                    ],
+                    [
+                        308
+                    ]
+                ]
+            },
+            {
+                "startTime": "2:00",
+                "endTime": "2:50",
+                "sessions": [
+                    [
+                        309
+                    ],
+                    [
+                        310
+                    ]
+                ]
+            },
+            {
+                "startTime": "3:00",
+                "endTime": "3:50",
+                "sessions": [
+                    [
+                        311
+                    ],
+                    [
+                        312
+                    ]
+                ]
+            },
+            {
+                "startTime": "4:00",
+                "endTime": "4:50",
+                "sessions": [
+                    [
+                        313
+                    ],
+                    [
+                        314
+                    ]
+                ]
+            },
+            {
+                "startTime": "5:00",
+                "endTime": "5:30",
+                "sessions": [
+                    [
+                        203
+                    ],
+                    [
+                        213
+                    ]
+                ]
+            }
+        ]
+    }
 ]
-
-}]

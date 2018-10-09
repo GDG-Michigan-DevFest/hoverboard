@@ -1,289 +1,272 @@
 {
+  "101": {
+    "id": 101,
+    "title": "Doors Open & Registration",
+    "description": "Doors Open & Registration.",
+    "speakers": [],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Welcome"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "title": "Doors Open & Registration",
+    "description": "Doors Open & Registration.",
+    "speakers": [],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Welcome"
+    ]
+  },
   "201": {
     "id": 201,
     "title": "Introductions",
     "description": "Introductions to the day.",
-    "speakers": [
-    ],
+    "speakers": [],
     "language": "English",
     "complexity": "",
     "tags": [
-      "Introductions"
+      "Welcome"
     ]
   },
-   "211": {
+  "211": {
     "id": 211,
     "title": "Introductions",
     "description": "Introductions to the day.",
-    "speakers": [
-    ],
+    "speakers": [],
     "language": "English",
     "complexity": "",
     "tags": [
-      "Introductions"
+      "Welcome"
     ]
   },
-    "202": {
+  "202": {
     "id": 202,
     "title": "Lunch",
     "description": "Lunch",
-    "speakers": [
-    ],
+    "speakers": [],
     "language": "English",
     "complexity": "",
     "tags": [
       "Lunch"
     ]
   },
-    "212": {
+  "212": {
     "id": 212,
     "title": "Lunch",
     "description": "Lunch",
-    "speakers": [
-    ],
+    "speakers": [],
     "language": "English",
     "complexity": "",
     "tags": [
       "Lunch"
     ]
   },
-    "203": {
+  "203": {
     "id": 203,
     "title": "Wrap-Up",
     "description": "Wrap-up and raffle",
-    "speakers": [
-    ],
+    "speakers": [],
     "language": "English",
     "complexity": "",
     "tags": [
       "Wrap-Up"
     ]
   },
-    "213": {
+  "213": {
     "id": 213,
     "title": "Wrap-Up",
     "description": "Wrap-up and raffle",
-    "speakers": [
-    ],
+    "speakers": [],
     "language": "English",
     "complexity": "",
     "tags": [
       "Wrap-Up"
     ]
   },
-    "300": {
-    "id": 300,
-    "title": "Session",
-    "description": "Session",
-    "speakers": [
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-    ]
-  },
-  "501": {
-    "id": 501,
-    "title": "Google Cloud Platform Overview",
-    "description": "The Google Cloud Platform has evolved over the years to be one of the top cloud computing platforms available.  This talk will give an overview of all of the Cloud Platform technologies available to developers and how they can use them on their projects. A few demos will be shown during the talk.",
-    "speakers": [
-      1
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Cloud"
-    ]
-  },
-  "502": {
-    "id": 502,
-    "title": "Develop Your API Program Using the Google Cloud Platform",
-    "description": "This talk will cover developing an API program for your company.  It will cover why and how to build an API program, the players involved, REST APIs, comparison of the Apigee platform and GCP Endpoints, a demo, building your developer community and other related technologies.",
-    "speakers": [
-      1
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
-    "tags": [
-      "Cloud",
-      "API"
-    ]
-  },
-  "503": {
-    "id": 503,
-    "title": "Learn how to make Chrome Extensions in 30 minutes",
+  "301": {
+    "id": 301,
+    "title": "Taking your ML to production with Google Cloud ML Engine",
     "description": "",
     "speakers": [
-      8
+      9
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "Chrome Extensions"
+      "Session"
     ]
   },
-    "504": {
-    "id": 504,
-    "title": "Getting started with Firebase",
+  "302": {
+    "id": 302,
+    "title": "Flutter Study Jam Wrap-Up (4/4)",
+    "description": "",
+    "speakers": [
+      11
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "303": {
+    "id": 303,
+    "title": "I'm going to do machine learning with GCP! Ok, but how?",
+    "description": "",
+    "speakers": [
+      4
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "304": {
+    "id": 304,
+    "title": "Flutter: The Hard Way",
+    "description": "",
+    "speakers": [
+      
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "305": {
+    "id": 305,
+    "title": "Using BigQuery ML and BigQuery GIS together to predict NYC taxi trip cost",
+    "description": "",
+    "speakers": [
+      1
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "306": {
+    "id": 306,
+    "title": "Codelab: Flutter Makes Wicked Animations Easier Than Ever!",
     "description": "",
     "speakers": [
       3
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "Firebase"
+      "Session"
     ]
   },
-    "505": {
-    "id": 505,
-    "title": "Analytics: Beyond the pageview",
-    "description": "Analytics: Beyond the pageview",
+  "307": {
+    "id": 307,
+    "title": "Navigating the Sea of Serverless",
+    "description": "",
     "speakers": [
-      9
+      5
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "Web",
-      "Analytics"
+      "Session"
     ]
   },
-    "506": {
-    "id": 506,
-    "title": "Caring for New Users: Adoption, Onboarding, Permissions, Empty States, Feedback Herding, Friction Mitigation and More",
-    "description": "Caring for New Users: Adoption, Onboarding, Permissions, Empty States, Feedback Herding, Friction Mitigation and More",
+  "308": {
+    "id": 308,
+    "title": "Google A11y 101",
+    "description": "",
     "speakers": [
-      14
+      6
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "UX"
+      "Session"
     ]
   },
-    "507": {
-    "id": 507,
-    "title": "Speaking their language: A journey into technology",
-    "description": "This presentation will go over my journey from a non technical person coming on to a high performing technical team. I will discuss the best ways to learn, become a mentee, and the best ways to mentor new people. The audience would be people interested in learning more about technology and entering the industry. ",
+  "309": {
+    "id": 309,
+    "title": "",
+    "description": "",
     "speakers": [
-      11
+      
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "Technology"
+      "Session"
     ]
   },
-    "508": {
-    "id": 508,
-    "title": "The ins and outs of using beacon technologies in Android",
-    "description": "The ins and outs of using beacon technologies in Android. What types of beacons are out there to use, such as RadBeacons and Estimotes. The different types of beacon protocols available to those beacons: Eddystone (The Google Way) and AltBeacon. Walk through exactly how each of these protocols work and how to implement them into your application using either Google's Proximity Beacon API coupled with Nearby Messages API and also with the AltBeacon library.",
+  "310": {
+    "id": 310,
+    "title": "Getting started with FHIR",
+    "description": "",
     "speakers": [
-      12
+      
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "Android",
-      "Beacons"
+      "Session"
     ]
   },
-  "401": {
-    "id": 401,
-    "title": "A Startup Story: Why We (SPLT) Went React Native to build our Android App.",
+  "311": {
+    "id": 311,
+    "title": "AutoML: No Code No Problem",
+    "description": "",
+    "speakers": [
+      7
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "312": {
+    "id": 312,
+    "title": "Everyday Animations in Android",
+    "description": "",
+    "speakers": [
+      8
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "313": {
+    "id": 313,
+    "title": "Counting Sheep with Drones and AI",
+    "description": "",
+    "speakers": [
+      10
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Session"
+    ]
+  },
+  "314": {
+    "id": 314,
+    "title": "Living in a Material World: Everything Engineers + Designers Should Know About Google's Design System",
     "description": "",
     "speakers": [
       2
     ],
     "language": "English",
-    "complexity": "Beginner",
+    "complexity": "",
     "tags": [
-      "Android"
-    ]
-  },
-  "402": {
-    "id": 402,
-    "title": "SafetyNet: How to Stop Chasing Root Detection by Learning to Love Google’s Native Android Attestation API",
-    "description": "Attacks are getting more sophisticated and root detection is becoming increasingly difficult, so how can you trust the devices in your ecosystem? Have no fear, Google's SafetyNet is here! SafetyNet hit the mainstream when Pokemon Go added it to their arsenal to stop players from cheating to \"catch 'em all\". SafetyNet is Google’s API for establishing device trust by investigating hardware-based and software-backed properties of the device your Android application is running on. These properties include whether or not the integrity of the device’s hardware and software is sane and if device’s current state is recognized by Google. At the end of the talk, attendees will know, at a high level, how to properly utilize SafetyNet in their own applications as well as some caveats of using the API. I will talk about the SafetyNet protocol, how to implement it securely (many open source reference implementations do not!), how we use it in the Duo product, pitfalls of using the API, why you shouldn’t scrap your current tamper detection just yet, and how the SafetyNet attestation matches up against our previous detection. In our initial assessment of around half a million Android devices across Duo’s population, we see over a 5x increase in the number of devices flagged as tampered by incorporating the SafetyNet attestation.",
-    "speakers": [
-      4
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android",
-      "SafetyNet"
-    ]
-  },
-  "403": {
-    "id": 403,
-    "title": "Android Authentication in the Web World",
-    "description": "Now that mobile apps are invading the enterprise, and security breaches are a reality, an secure login is vital. When building web sites, login security gets taken for granted, because the browser utilizes security mechanisms with built-in functionality created by armies of developers over many years. Android apps don't quite get this for free. Android can leverage mechanisms and technologies already in place in existing web apps instead of inventing something new, despite every developer's innate inclination to do just that. Android developers have to code something specific to make web-based authentication work, that's the point of this presentation. Learn about authenticating Android apps against web servers using common web authentication technologies.",
-    "speakers": [
-      5
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android",
-      "Authentication"
-    ]
-  },
-  "404": {
-    "id": 404,
-    "title": "Refactoring in Android Studio. ",
-    "description": "Ever wondered what the Refactor tab does in Android Studio? In this session we'll go through each of the refactoring options in Studio and show you how applying them to your code will improve it's maintainability, scalability and overall design.",
-    "speakers": [
-      7
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android",
-      "Android Studio"
-    ]
-  },
-  "405": {
-    "id": 405,
-    "title": "Building Android apps for 10 people in the next room: Surprising challenges and benefits of internal-facing development.",
-    "description": "Building Android apps for 10 people in the next room: Surprising challenges and benefits of internal-facing development",
-    "speakers": [
-      10
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android"
-    ]
-  },
-  "406": {
-    "id": 406,
-    "title": "RxApplications: RxJava and it's (Android) Applications",
-    "description": "An intro to RXJava, and application examples including Data Requests, Updating UI, and Observables",
-    "speakers": [
-      6
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android",
-      "RxJava"
-    ]
-  },
-  "407": {
-    "id": 407,
-    "title": "How to add intelligence to Android apps using Google Cloud Platform, Tensor Flow and Google Play Services",
-    "description": "How to add intelligence to Android apps using Google Cloud Platform, Tensor Flow and Google Play Services",
-    "speakers": [
-      13
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "tags": [
-      "Android",
-      "Google Cloud Platform"
+      "Session"
     ]
   }
 }
-
