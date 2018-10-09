@@ -8,6 +8,19 @@
                 "logoUrl": "../images/logos/GrandCircus.png",
                 "width": 170,
                 "height": 170
+            },
+            {
+                "name": "",
+                "url": "",
+                "logoUrl": "../images/logos/BlankSpace.png",
+                "width": 50
+            },
+            {
+                "name": "Arbormoon Software",
+                "url": "http://www.arbormoon.com/",
+                "logoUrl": "../images/logos/arbormoonlogo-full.png",
+                "width": 160,
+                "height": 160
             }
         ]
     }
