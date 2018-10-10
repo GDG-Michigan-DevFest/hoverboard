@@ -128,7 +128,7 @@
   },
   "304": {
     "id": 304,
-    "title": "Flutter: The Hard Way",
+    "title": "",
     "description": "",
     "speakers": [
       
@@ -209,7 +209,7 @@
     "title": "Getting started with FHIR",
     "description": "",
     "speakers": [
-      
+      12
     ],
     "language": "English",
     "complexity": "",

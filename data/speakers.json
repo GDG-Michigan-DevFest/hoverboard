@@ -226,5 +226,26 @@
                 "link": "https://twitter.com/hikaritenchi"
             }
         ]
+    },
+    "12": {
+        "id": 12,
+        "featured": true,
+        "name": "Kevin Maloy",
+        "title": "",
+        "company": "",
+        "companyLogo": "",
+        "country": "Washington D.C. Metro Area",
+        "photoUrl": "/images/people/kevin_maloy.png",
+        "shortBio": "Kevin Maloy is a coder and a practicing, board certified Emergency Medicine physician with an interest...",
+        "bio": "Kevin Maloy is a coder and a practicing, board certified Emergency Medicine physician with an interest in end-user medical data visualization and data mining.  He likes everything js and open APIs like FHIR.  He also likes startups and teaches medical students how to ideate and hire to realize their tech ideas (see http://www.hackinghealthcaredc.org/).  He recently moved to Michigan, but still keeps ties to DC.",
+        "tags": [],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/maloykr"
+            }
+        ]
     }
 }
