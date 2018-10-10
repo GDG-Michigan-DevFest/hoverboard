@@ -83,6 +83,16 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/keithbourne"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/keithbourne"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://gradientvalley.com/"
             }
         ]
     },
@@ -175,9 +185,9 @@
         "featured": true,
         "name": "Thomas Schultz",
         "title": "",
-        "company": "Gray Gradient",
+        "company": "Gradient Valley, Inc.",
         "companyLogo": "",
-        "country": "",
+        "country": "Owosso, Michigan",
         "photoUrl": "/images/people/thomas_schultz.jpeg",
         "shortBio": "I'm a Python engineer that is starting to dive into machine learning. I've worked for...",
         "bio": "I'm a Python engineer that is starting to dive into machine learning. I've worked for several startups and also as a contractor for several years. I love machines with engines and machines you pedal. I'm always excited to talk about ideas and solutions to obstacles!",
@@ -188,6 +198,11 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/daspecster"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://gradientvalley.com/"
             }
         ]
     },
