@@ -48,5 +48,29 @@
                 "height": 170
             }
         ]
+    },
+    {
+        "title": "blank-partner",
+        "logos": [
+             {
+                "name": "",
+                "url": "",
+                "logoUrl": "../images/logos/BlankSpace.png",
+                "width": 50
+            },
+            {
+                "name": "RIIS",
+                "url": "https://www.riis.com/",
+                "logoUrl": "../images/logos/RIIS.png",
+                "width": 170,
+                "height": 170
+            },
+            {
+                "name": "",
+                "url": "",
+                "logoUrl": "../images/logos/BlankSpace.png",
+                "width": 50
+            }
+        ]
     }
 ]
