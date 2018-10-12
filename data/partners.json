@@ -23,5 +23,30 @@
                 "height": 160
             }
         ]
+    },
+    {
+        "title": "blank-partner",
+        "logos": [
+            {
+                "name": "Quicken Loans",
+                "url": "https://www.quickenloans.com/",
+                "logoUrl": "../images/logos/QuickenLoans.png",
+                "width": 170,
+                "height": 170
+            },
+            {
+                "name": "",
+                "url": "",
+                "logoUrl": "../images/logos/BlankSpace.png",
+                "width": 50
+            },
+            {
+                "name": "Google",
+                "url": "https://www.google.com/",
+                "logoUrl": "../images/logos/google.svg",
+                "width": 170,
+                "height": 170
+            }
+        ]
     }
 ]
