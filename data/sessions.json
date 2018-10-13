@@ -97,7 +97,8 @@
     "language": "English",
     "complexity": "",
     "tags": [
-      "Machine Learning"
+      "Machine Learning",
+      "GCP"
     ]
   },
   "302": {
@@ -123,7 +124,8 @@
     "language": "English",
     "complexity": "",
     "tags": [
-      "Machine Learning"
+      "Machine Learning",
+      "GCP"
     ]
   },
   "304": {
@@ -149,7 +151,8 @@
     "language": "English",
     "complexity": "",
     "tags": [
-      "Machine Learning"
+      "Machine Learning",
+      "Big Query"
     ]
   },
   "306": {
