@@ -4,10 +4,10 @@
         "dateReadable": "November 10, 2018",
         "tracks": [
             {
-                "title": "Web"
+                "title": "Room 1"
             },
             {
-                "title": "Mobile"
+                "title": "Room 2"
             }
         ],
         "timeslots": [
@@ -55,7 +55,7 @@
                         303
                     ],
                     [
-                        304
+                        306
                     ]
                 ]
             },
@@ -67,7 +67,7 @@
                         305
                     ],
                     [
-                        306
+                        310
                     ]
                 ]
             },
@@ -100,18 +100,6 @@
                 "endTime": "2:50",
                 "sessions": [
                     [
-                        309
-                    ],
-                    [
-                        310
-                    ]
-                ]
-            },
-            {
-                "startTime": "3:00",
-                "endTime": "3:50",
-                "sessions": [
-                    [
                         311
                     ],
                     [
@@ -120,8 +108,8 @@
                 ]
             },
             {
-                "startTime": "4:00",
-                "endTime": "4:50",
+                "startTime": "3:00",
+                "endTime": "3:50",
                 "sessions": [
                     [
                         313
@@ -132,8 +120,8 @@
                 ]
             },
             {
-                "startTime": "5:00",
-                "endTime": "5:30",
+                "startTime": "4:00",
+                "endTime": "4:50",
                 "sessions": [
                     [
                         203

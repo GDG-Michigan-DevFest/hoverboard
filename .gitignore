@@ -119,3 +119,7 @@ typings/
 
 # End of https://www.gitignore.io/api/node,macos,firebase
 .firebase/hosting.0.cache
+.firebaserc
+.firebaserc
+.firebase/hosting.YnVpbGQvZGVmYXVsdA.cache
+.firebaserc

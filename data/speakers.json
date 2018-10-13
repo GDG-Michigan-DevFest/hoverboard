@@ -34,7 +34,7 @@
         "photoUrl": "/images/people/scott_showalter.jpg",
         "shortBio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences...",
         "bio": "For over 10 years, Scott has been pushing teams to thrive at crafting experiences for users of digital and physical products in a diversity of industries including security, banking, dining, public safety, transit, mobility and social media. He does nothing without first making connections with real users, understanding their journey, empathizing with their needs, and considering how they think and work to accomplish their goals within the context of the problem space. Scott has a dynamic presentation style, delivering learning in many ways for many different types of learners, and he threads humor throughout everything he teaches to help drive every point home and make each memorable. He encourages the use of Lean UX alongside agile delivery to iteratively conceive, validate and deliver valuable components of an experience within complex adaptive systems. Scott speaks frequently at conferences, teaching people to build teams that can create the right products by showing them how to solve meaningful problems that people actually care about. He runs 4 active experience design  meetups across Ohio and Michigan that serve over a thousand designers, engineers and product leaders.",
-        "tags": [],
+        "tags": ["Machine Learning"],
         "badges": [],
         "socials": [
             {
@@ -55,7 +55,7 @@
         "photoUrl": "/images/people/scott_stoll.png",
         "shortBio": "Scott is an American mobile application developer, author, speaker, trainer and Flutter evangelist.",
         "bio": "Scott is an American mobile application developer, author, speaker, trainer and Flutter evangelist. A jack of most trades technical, his own past training ranges from 4000 hours of formal schooling as a U.S. Navy Electronics Technician to being a trained public speaker and self taught application developer.         Today, he is the creator and facilitator of \"HumpDayQandA\", a weekly \"Office Hours\" every Wednesday where anyone can come in for help with Flutter; which has advisers available in seven languages and counting. He is also one of several people behind the \"Flutter Community\" on Medium.com He is available for team training session and various talks including the ever-popular Flutter 101, \"Flutter: Beyond Hello World\", Animation, State Management Approaches and using Firebase with Flutter. He can be reached at scott@flutter.productions, @ScottS2017 on Twitter, is known as Scott in the FSG Slack group and can usually be found in the Flutter Community Zoom meeting at https://zoom.us/j/6592194465 , Monday - Friday between the hours of 12:00 and 21:00 UTC.",
-        "tags": [],
+        "tags": ["Flutter"],
         "badges": [],
         "socials": [
             {
@@ -232,7 +232,7 @@
         "photoUrl": "/images/people/jingran_wang.jpeg",
         "shortBio": "Android developer for 6 years, currently working with Flutter. I'm a big advocate of UX/UI in...",
         "bio": "Android developer for 6 years, currently working with Flutter. I'm a big advocate of UX/UI in my work. GDG Ann Arbor Co-organizer, 5x I/O attendee.",
-        "tags": [],
+        "tags": ["Flutter"],
         "badges": [],
         "socials": [
             {
@@ -253,7 +253,7 @@
         "photoUrl": "/images/people/kevin_maloy.png",
         "shortBio": "Kevin Maloy is a coder and a practicing, board certified Emergency Medicine physician with an interest...",
         "bio": "Kevin Maloy is a coder and a practicing, board certified Emergency Medicine physician with an interest in end-user medical data visualization and data mining.  He likes everything js and open APIs like FHIR.  He also likes startups and teaches medical students how to ideate and hire to realize their tech ideas (see http://www.hackinghealthcaredc.org/).  He recently moved to Michigan, but still keeps ties to DC.",
-        "tags": [],
+        "tags": ["FHIR"],
         "badges": [],
         "socials": [
             {
