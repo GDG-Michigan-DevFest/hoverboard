@@ -52,12 +52,6 @@
     {
         "title": "blank-partner",
         "logos": [
-             {
-                "name": "",
-                "url": "",
-                "logoUrl": "../images/logos/BlankSpace.png",
-                "width": 50
-            },
             {
                 "name": "RIIS",
                 "url": "https://www.riis.com/",
@@ -70,6 +64,13 @@
                 "url": "",
                 "logoUrl": "../images/logos/BlankSpace.png",
                 "width": 50
+            },
+            {
+                "name": "Little Caesars",
+                "url": "https://littlecaesars.com/en-us/",
+                "logoUrl": "../images/logos/Core_Caesar_RGB.png",
+                "width": 170,
+                "height": 170
             }
         ]
     }
