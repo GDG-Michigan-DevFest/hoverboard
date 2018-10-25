@@ -269,16 +269,19 @@
         "featured": true,
         "name": "Ron Daugherty",
         "title": "",
-        "company": "",
+        "company": "Arbormoon Software, Inc.",
         "companyLogo": "",
-        "country": "Ann Arbor, Michigan, USA",
-        "photoUrl": "",
-        "shortBio": "",
-        "bio": "",
-        "tags": ["Android"],
+        "country": "Detroit, Michigan, USA",
+        "photoUrl": "/images/people/ronald_daugherty.jpg",
+        "shortBio": "Ronald has been developing Android apps with Kotlin since Google made Kotlin a first-class language.",
+        "bio": "Ronald has been developing Android apps with Kotlin since Google made Kotlin a first-class language.",
+        "tags": ["Kotlin", "Flutter"],
         "badges": [],
         "socials": [
             {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ronjdaugherty29"
             }
         ]
     }
