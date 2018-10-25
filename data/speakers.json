@@ -263,5 +263,23 @@
                 "link": "https://www.linkedin.com/in/maloykr"
             }
         ]
+    },
+    "13": {
+        "id": 13,
+        "featured": true,
+        "name": "Ron Daugherty",
+        "title": "",
+        "company": "",
+        "companyLogo": "",
+        "country": "Ann Arbor, Michigan, USA",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": ["Android"],
+        "badges": [],
+        "socials": [
+            {
+            }
+        ]
     }
 }

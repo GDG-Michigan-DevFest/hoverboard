@@ -271,5 +271,18 @@
     "tags": [
       "Material Design"
     ]
+  },
+  "315": {
+    "id": 315,
+    "title": "Kotlin Up Java Down",
+    "description": "",
+    "speakers": [
+      13
+    ],
+    "language": "English",
+    "complexity": "",
+    "tags": [
+      "Android"
+    ]
   }
 }
